@@ -1,0 +1,22 @@
+{
+  "name": "helpers4u-pwa",
+  "version": "1.0.0",
+  "description": "Progressive Web Application for Helpers4U - Specialised Labour Centre Brokers",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8000 -c-1",
+    "build": "echo 'Build script placeholder'",
+    "dev": "http-server -p 8000 -o"
+  },
+  "keywords": [
+    "pwa",
+    "helpers4u",
+    "labour",
+    "services"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
